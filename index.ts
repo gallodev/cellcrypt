@@ -1,5 +1,5 @@
-import Factorial from './src/Factorial';
-import NameBook from './src/NameBook';
+import Factorial from './build/Factorial';
+import NameBook from './build/NameBook';
 
 const readline = require('readline');
 

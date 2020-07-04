@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
-var Factorial_1 = require("./src/Factorial");
-var NameBook_1 = require("./src/NameBook");
+var Factorial_1 = require("./build/Factorial");
+var NameBook_1 = require("./build/NameBook");
 var readline = require('readline');
 var rl = readline.createInterface({
     input: process.stdin,
